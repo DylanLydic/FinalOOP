@@ -1,0 +1,16 @@
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\bin\Debug\FinalProjectOOP.exe.config
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\bin\Debug\FinalProjectOOP.exe
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\bin\Debug\FinalProjectOOP.pdb
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.csprojAssemblyReference.cache
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.Home.resources
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.aboutForm.resources
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.selectionForm.resources
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.Properties.Resources.resources
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.csproj.GenerateResource.cache
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.exe
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.pdb
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.ssbForm.resources
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.gspForm.resources
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.beginForm.resources
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.interForm.resources
+C:\Users\lydic\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\FinalProjectOOP.advForm.resources
